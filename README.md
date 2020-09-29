@@ -1,2 +1,3 @@
 # Store-An-Item-Minecraft-Plugin
-Morgan to update
+
+Based on https://github.com/Bukkit/SamplePlugin
